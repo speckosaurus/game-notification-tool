@@ -1,0 +1,6 @@
+c:\users\-sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\bin\Debug\GameNotificationTool.exe.config
+C:\Users\-Sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\bin\Debug\GameNotificationTool.exe
+C:\Users\-Sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\bin\Debug\GameNotificationTool.pdb
+C:\Users\-Sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\obj\Debug\GameNotificationTool.csprojResolveAssemblyReference.cache
+C:\Users\-Sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\obj\Debug\GameNotificationTool.exe
+C:\Users\-Sandee\documents\visual studio 2012\Projects\GameNotificationTool\GameNotificationTool\obj\Debug\GameNotificationTool.pdb
